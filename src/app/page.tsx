@@ -22,7 +22,7 @@ export default function Home() {
               <CardDescription>Generate professional and engaging posts with ease</CardDescription>
             </CardHeader>
             <CardContent className="flex justify-center">
-              <Link href="/generator">
+              <Link href="/post-generator">
                 <Button size="lg">
                   Start Generating
                   <ArrowRight className="ml-2 h-4 w-4" />
